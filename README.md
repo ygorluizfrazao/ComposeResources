@@ -2,7 +2,7 @@
 Simple classes to help dealing with resources in a decoupled and reusable way.
 
 <div id="header" align="center">
-  <a href="https://jitpack.io/#ygorluizfrazao/highlighted-text-compose"><img src="https://jitpack.io/v/ygorluizfrazao/highlighted-text-compose.svg" alt="Version Name"/></a>
+  <a href="https://jitpack.io/#ygorluizfrazao/compose-resources"><img src="(https://jitpack.io/v/ygorluizfrazao/compose-resources.svg" alt="Version Name"/></a>
   <img src="https://komarev.com/ghpvc/?username=ygorluizfrazao&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="badges" align="center">
