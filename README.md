@@ -32,9 +32,9 @@ dependencyResolutionManagement {
 Then, in your *build.gradle*:
 
 ```groovy
-	dependencies {
-  
-	}
+dependencies {
+  implementation 'com.github.ygorluizfrazao:compose-resources:1.0.0-alpha01'
+}
 ```
 
 ## What it does?
